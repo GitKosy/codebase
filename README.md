@@ -6,14 +6,14 @@ TicTacToe using Artificial Intelligence
 A game of TicTacToe implemented using Min-Max algorithm.
 
 ### Compile
-```
+
 - Visual Studio 2015
-```
+
 
 ### Run
-```
+
 - ./tictactoe
-```
+
 
 ### Usage
 
@@ -21,7 +21,8 @@ A game of TicTacToe implemented using Min-Max algorithm.
   - 사람 vs 컴퓨터 선택 시 랭킹 시스템 이용가능
   - 랭킹 시스템이란 컴퓨터랑 경기 했을 경우 게임 시간 측정 가능한 기능
 
-![img][./image/screenshot.jpg]
+![imgname][./image/screenshot.jpg]
+
 ```
 2-1. 사람vs사람 모드 선택시
   - 개인 별로 좌표 값을 입력하면 된다.
