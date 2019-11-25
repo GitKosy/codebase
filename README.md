@@ -1,4 +1,4 @@
-* Copyright (c) 2017 Hitanshu Dhawan
+﻿* Copyright (c) 2017 Hitanshu Dhawan
 * Released under the MIT license.
 
 TicTacToe using Artificial Intelligence
